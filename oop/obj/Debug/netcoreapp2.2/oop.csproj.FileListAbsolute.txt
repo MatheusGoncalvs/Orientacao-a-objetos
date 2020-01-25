@@ -1,0 +1,11 @@
+C:\Users\Teu\source\repos\Csharp Fundamentals\Orientacao-a-objetos\oop\bin\Debug\netcoreapp2.2\oop.deps.json
+C:\Users\Teu\source\repos\Csharp Fundamentals\Orientacao-a-objetos\oop\bin\Debug\netcoreapp2.2\oop.runtimeconfig.json
+C:\Users\Teu\source\repos\Csharp Fundamentals\Orientacao-a-objetos\oop\bin\Debug\netcoreapp2.2\oop.runtimeconfig.dev.json
+C:\Users\Teu\source\repos\Csharp Fundamentals\Orientacao-a-objetos\oop\bin\Debug\netcoreapp2.2\oop.dll
+C:\Users\Teu\source\repos\Csharp Fundamentals\Orientacao-a-objetos\oop\bin\Debug\netcoreapp2.2\oop.pdb
+C:\Users\Teu\source\repos\Csharp Fundamentals\Orientacao-a-objetos\oop\obj\Debug\netcoreapp2.2\oop.csprojAssemblyReference.cache
+C:\Users\Teu\source\repos\Csharp Fundamentals\Orientacao-a-objetos\oop\obj\Debug\netcoreapp2.2\oop.csproj.CoreCompileInputs.cache
+C:\Users\Teu\source\repos\Csharp Fundamentals\Orientacao-a-objetos\oop\obj\Debug\netcoreapp2.2\oop.AssemblyInfoInputs.cache
+C:\Users\Teu\source\repos\Csharp Fundamentals\Orientacao-a-objetos\oop\obj\Debug\netcoreapp2.2\oop.AssemblyInfo.cs
+C:\Users\Teu\source\repos\Csharp Fundamentals\Orientacao-a-objetos\oop\obj\Debug\netcoreapp2.2\oop.dll
+C:\Users\Teu\source\repos\Csharp Fundamentals\Orientacao-a-objetos\oop\obj\Debug\netcoreapp2.2\oop.pdb
