@@ -33,7 +33,7 @@ namespace oop.Principiosfundamentais.AbstractClass
 
         public override void Desligar()
         {
-            //Verificar recipiente de água
+            //Verificar recipiente de água8
         }
 
         public override void Ligar()
